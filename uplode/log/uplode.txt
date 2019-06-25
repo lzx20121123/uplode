@@ -1,0 +1,168 @@
+
+2019-06-15-23-43: 内网路径:\192.168.1.6\public\guochanhua\\国产化 可外发安装包\\国产化杀毒\\客户端\\中标龙芯\\2019-06-15-23-43\jingyunsd-4.0.0.2-13.nd7.mips64el.rpm MD5:d41d8cd98f00b204e9800998ecf8427e
+2019-06-15-23-43: 内网路径:\192.168.1.6\public\guochanhua\\国产化 可外发安装包\\国产化杀毒\\客户端\\中标龙芯\\2019-06-15-23-43\jingyunsd-4.0.0.2-13.nd7.mips64el.q7 MD5:3b549ba833ae26702eb52eb10d5211ae
+2019-06-16-00-15: 内网路径:\192.168.1.6\public\guochanhua\\国产化 可外发安装包\\国产化杀毒\\客户端\\中标龙芯\\2019-06-16-00-15\jingyunsd-4.0.0.2-13.nd7.mips64el.rpm "
+"MD5:d41d8cd98f00b204e9800998ecf8427e
+2019-06-16-00-15: 内网路径:\192.168.1.6\public\guochanhua\\国产化 可外发安装包\\国产化杀毒\\客户端\\中标龙芯\\2019-06-16-00-15\jingyunsd-4.0.0.2-13.nd7.mips64el.q7 "
+"MD5:3b549ba833ae26702eb52eb10d5211ae
+2019-06-16-00-40: fm_zblx_client包内网路径:\192.168.1.6\public\zhangyifan\\zyj\\非涉密\\客户端\\中标龙芯\\2019-06-16-00-40\jingyunsd_4.0.0.2-12_c1.2114.5.1111_mips64.rpm
+MD5:a83920d1348eee579e4d5e2037b93657
+2019-06-18-16-39: 中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj//2019-06-18-16-39/jingyunsd_4.0.0.3-2_amd64.deb
+MD5:070d85dc326510c687d4795cf243fae8
+2019-06-18-16-39: 中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj//2019-06-18-16-39/jingyunsd_4.0.0.3-2_amd64.q7
+MD5:070d85dc326510c687d4795cf243fae8
+2019-06-18-18-27: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-18-18-27/jingyunsd_4.0.0.3-2_amd64.deb
+MD5:070d85dc326510c687d4795cf243fae8
+2019-06-18-18-27: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-18-18-27/jingyunsd_4.0.0.3-2_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-18-18-27: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-2_amd64.deb
+MD5:070d85dc326510c687d4795cf243fae8
+2019-06-18-18-27: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-2_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-18-18-30: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-18-18-30/jingyunsd_4.0.0.3-2_amd64.deb
+MD5:070d85dc326510c687d4795cf243fae8
+2019-06-18-18-30: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-18-18-30/jingyunsd_4.0.0.3-2_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-18-18-30: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-2_amd64.deb
+MD5:070d85dc326510c687d4795cf243fae8
+2019-06-18-18-30: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-2_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-18-18-36: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-18-18-36/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:d41d8cd98f00b204e9800998ecf8427e
+2019-06-18-18-36: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-18-18-36/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-18-18-36: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:d41d8cd98f00b204e9800998ecf8427e
+2019-06-18-18-36: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-09-49: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-09-49/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:d41d8cd98f00b204e9800998ecf8427e
+2019-06-19-09-49: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-09-49/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-09-49: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:d41d8cd98f00b204e9800998ecf8427e
+2019-06-19-09-49: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-10-10: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-10-10/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:d41d8cd98f00b204e9800998ecf8427e
+2019-06-19-10-10: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-10-10/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-10-10: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:d41d8cd98f00b204e9800998ecf8427e
+2019-06-19-10-10: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-10-15: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-10-15/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:d41d8cd98f00b204e9800998ecf8427e
+2019-06-19-10-15: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-10-15/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-10-15: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:d41d8cd98f00b204e9800998ecf8427e
+2019-06-19-10-15: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-10-36: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-10-36/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-10-36: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-10-36/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-10-36: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-10-36: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-10-41: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-10-41/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-10-41: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-10-41/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-10-41: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-10-41: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-10-50: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-10-50/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-10-50: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-10-50/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-10-50: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-10-50: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-11-02: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-11-02/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-11-02: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-11-02/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-11-02: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-11-02: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-11-16: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-11-16/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-11-16: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-11-16/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-11-16: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-11-16: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-11-25: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-11-25/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-11-25: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-11-25/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-11-25: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-11-25: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-11-27: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-11-27/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-11-27: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-11-27/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-11-27: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.deb
+MD5:de48ab183b614277b5458ed35bc937cd
+2019-06-19-11-27: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-3_amd64.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-17-33: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-17-33/jingyunsd_4.0.0.3-2_amd64test.deb
+MD5:070d85dc326510c687d4795cf243fae8
+2019-06-19-17-33: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-17-33/jingyunsd_4.0.0.3-2_amd64test.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-17-33: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-2_amd64test.deb
+MD5:070d85dc326510c687d4795cf243fae8
+2019-06-19-17-33: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-2_amd64test.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-17-38: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-17-38/jingyunsd_4.0.0.3-2_amd64test.deb
+MD5:070d85dc326510c687d4795cf243fae8
+2019-06-19-17-38: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-19-17-38/jingyunsd_4.0.0.3-2_amd64test.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-19-17-38: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-2_amd64test.deb
+MD5:070d85dc326510c687d4795cf243fae8
+2019-06-19-17-38: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-2_amd64test.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-20-10-51: LocalizationSecret的中科方德(涉密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-20-10-51/jingyunsd_4.0.0.3-2_amd64test.deb
+MD5:070d85dc326510c687d4795cf243fae8
+2019-06-20-10-51: LocalizationSecret的中科方德(涉密)Q7内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/zyj/2019-06-20-10-51/jingyunsd_4.0.0.3-2_amd64test.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-20-10-51: LocalizationSecret的中科方德(涉密)包外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-2_amd64test.deb
+MD5:070d85dc326510c687d4795cf243fae8
+2019-06-20-10-51: LocalizationSecret的中科方德(涉密)Q7外网路径:ftp://120.133.1.35/6.guochanhua/专用机/客户端软件/方德兆芯/jingyunsd_4.0.0.3-2_amd64test.q7
+MD5:ae4e8dc3a50c47fb36fd5715f3cfd932
+2019-06-20-11-19: LocalizationNormal的中科方德(非密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/normal/2019-06-20-11-19/update.zip
+MD5:01474d8f47f445a3cfd90c965e5c4ec2
+2019-06-20-11-19: LocalizationNormal的中科方德(非密)包外网路径:ftp://120.133.1.35/6.guochanhua/通用机/客户端软件/方德兆芯 缺/update.zip
+2019-06-20-14-08: LocalizationNormal的中科方德(非密)包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/fdzx/normal/update.zip
+MD5:01474d8f47f445a3cfd90c965e5c4ec2
+2019-06-20-14-08: LocalizationNormal的中科方德(非密)包外网路径:ftp://120.133.1.35/6.guochanhua/通用机/客户端软件/方德兆芯 缺/update.zip
+
+
+2019-06-20-16-13: LinuxNormalrpm的x64界面包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/common/rpm/jingyunsd_4.0.0.3-21_c1.2110.2.1111_amd64.rpm
+MD5:e48032c03402390efe3e0add0e9c2262
+2019-06-20-16-13: LinuxNormalrpm的x64界面包外网路径:ftp://120.133.1.35/1.Product/JY-Network Antivirus System/ClientLinux/4.0/rpm/jingyunsd_4.0.0.3-21_c1.2110.2.1111_amd64.rpm
+
+2019-06-20-16-23: LinuxNormaldeb的x64界面包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/common/deb/jingyunsd_4.0.0.3-21_c1.2110.2.1111_amd64.deb
+MD5:d3b3589f62c891593bb24662b5cd6a0d
+2019-06-20-16-23: LinuxNormaldeb的x64界面包外网路径:ftp://120.133.1.35/1.Product/JY-Network Antivirus System/ClientLinux/4.0/deb/jingyunsd_4.0.0.3-21_c1.2110.2.1111_amd64.deb
+
+2019-06-24-14-15: LinuxNormalbin的x64进程版包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/common/bin/jingyunsd_4.0.0.3-28_c1.2210.2.1111_amd64.bin
+MD5:aacf676053f84cece7562329347e0422
+2019-06-24-14-15: LinuxNormalbin的x64进程版包外网路径:ftp://120.133.1.35/1.Product/JY-Network Antivirus System/ClientLinux/4.0/bin/jingyunsd_4.0.0.3-28_c1.2210.2.1111_amd64.bin
+
+2019-06-24-15-03: LinuxNormalbin的x64进程版包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/common/bin/jingyunsd_4.0.0.3-28_c1.2210.2.1111_amd64.bin
+MD5:aacf676053f84cece7562329347e0422
+2019-06-24-15-03: LinuxNormalbin的x64进程版包外网路径:ftp://120.133.1.35/1.Product/JY-Network Antivirus System/ClientLinux/4.0/bin/jingyunsd_4.0.0.3-28_c1.2210.2.1111_amd64.bin
+
+2019-06-25-16-50: LinuxNormalbin的x64进程版包内网路径:ftp://192.168.1.6/public/Linux_Packets/release/common/bin/jingyunsd_4.0.0.3-28_c1.2210.2.1111_amd64.bin
+MD5:aacf676053f84cece7562329347e0422
+2019-06-25-16-50: LinuxNormalbin的x64进程版包外网路径:ftp://120.133.1.35/1.Product/JY-Network Antivirus System/ClientLinux/4.0/bin/jingyunsd_4.0.0.3-28_c1.2210.2.1111_amd64.bin
